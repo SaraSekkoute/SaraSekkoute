@@ -4,10 +4,10 @@
 </head>
 <body>
 <h2 style={
-   font-family: cursive;}>👋 Hello, I'm Sara</h2>
-<h5>
+   font-family: cursive;color:black}>👋 Hello, I'm Sara</h2>
+
 I a dedicated full-stack developer with one year of professional experience. My passion for technology drives me to create efficient, user-friendly software solutions. I'm skilled in Java/J2EE, Laravel, jQuery, MySQL, JavaScript, and HTML/CSS/Bootstrap. I thrive on solving complex problems and am committed to delivering innovative solutions.
-</h5>
+
 
 
 
