@@ -85,8 +85,3 @@ I a dedicated full-stack developer with one year of professional experience. My 
         </tr>
     </table>
 
-
-##<p style="font-weight: bold;">Most used language </p>
-<br>
-<br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laxmena&layout=compact)](url)](url)
