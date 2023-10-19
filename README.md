@@ -21,9 +21,9 @@ I a dedicated full-stack developer with one year of professional experience. My 
 
 📫 How to reach me:
 
-<a href="mailto:YourEmail@gmail.com">![sekkoutesara@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
+- Email: <a href="mailto:votre.adresse.email@example.com">![votre.adresse.email@example.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 
-<a href="[<LinkedInURL>](https://www.linkedin.com/in/sara-sekkoute-2b41b1230/)">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+- LinkedIn: <a href="https://www.linkedin.com/in/sara-sekkoute-2b41b1230/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
 
 
