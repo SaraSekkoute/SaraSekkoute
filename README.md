@@ -19,12 +19,7 @@ I a dedicated full-stack developer with one year of professional experience. My 
 
 💬 Ask me about: Anything related to software development, tech trends, or coding best practices.
 
-📫 How to reach me:
-
-- Email: <a href="mailto:votre.adresse.email@example.com">![votre.adresse.email@example.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
-
-- LinkedIn: <a href="https://www.linkedin.com/in/sara-sekkoute-2b41b1230/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
-
+📫 How to reach me: [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:votre.adresse.email@example.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sara-sekkoute-2b41b1230/)
 
 
 
