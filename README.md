@@ -1,29 +1,10 @@
 <html>
 <head>
-<style>
-   table {
-        border-collapse: collapse;
-        width: 100%;
-        border: 1px solid #ccc; /* Bord délicat */
-    }
 
-    th, td {
-        border: 1px solid #ccc; /* Bord délicat */
-        padding: 8px;
-        text-align: left;
-    }
-
-    th {
-        background-color: #f2f2f2;
-        font-family: cursive; /* Changer la police des titres */
-       /* Mettre en majuscules */
-    }
-h2{ font-family: cursive;}
-
-</style>
 </head>
 <body>
-<h2>👋 Hello, I'm Sara</h2>
+<h2 style={
+   font-family: cursive;}>👋 Hello, I'm Sara</h2>
 <h5>
 I a dedicated full-stack developer with one year of professional experience. My passion for technology drives me to create efficient, user-friendly software solutions. I'm skilled in Java/J2EE, Laravel, jQuery, MySQL, JavaScript, and HTML/CSS/Bootstrap. I thrive on solving complex problems and am committed to delivering innovative solutions.
 </h5>
@@ -50,21 +31,38 @@ I a dedicated full-stack developer with one year of professional experience. My 
 
 🖥 My Tech Stack:
 
- <table >
+ <table style={
+       border-collapse: collapse;
+        width: 100%;
+        border: 1px solid #ccc;
+ }>
         <tr>
-               <th>Programming Languages</th>
-            <th>Web Development</th>
-            <th>Database</th>
+               <th style={        border: 1px solid #ccc;
+        padding: 8px;
+        text-align: left; background-color: #f2f2f2;
+        font-family: cursive;}>Programming Languages</th>
+            <th style={        border: 1px solid #ccc;
+        padding: 8px;
+        text-align: left; background-color: #f2f2f2;
+        font-family: cursive;}>Web Development</th>
+            <th style={        border: 1px solid #ccc;
+        padding: 8px;
+        text-align: left; background-color: #f2f2f2;
+        font-family: cursive;}>Database</th>
         </tr>
         <tr>
-            <td>
+            <td style={        border: 1px solid #ccc;
+        padding: 8px;
+        text-align: left;}>
                 <img alt="C#" src="https://img.shields.io/badge/C%23-purple">
                 <img alt="Python" src="https://img.shields.io/badge/Python-green">
                 <img alt="PHP" src="https://img.shields.io/badge/PHP-blue">
                 <img alt="Java" src="https://img.shields.io/badge/Java-red">
                 <img alt="JEE" src="https://img.shields.io/badge/JEE-orange">
             </td>
-            <td>
+               <td style={        border: 1px solid #ccc;
+        padding: 8px;
+        text-align: left;}>
                 <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-yellow">
                 <img alt="HTML" src="https://img.shields.io/badge/HTML-orange">
                 <img alt="CSS" src="https://img.shields.io/badge/CSS-teal">
@@ -78,7 +76,9 @@ I a dedicated full-stack developer with one year of professional experience. My 
                 <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-purple">
                 <img alt="React" src="https://img.shields.io/badge/React-skyblue">
             </td>
-            <td>
+   <td style={        border: 1px solid #ccc;
+        padding: 8px;
+        text-align: left;}>
                 <img alt="SQL Server" src="https://img.shields.io/badge/SQL%20Server-yellow">
                 <img alt="Transact-SQL" src="https://img.shields.io/badge/Transact-SQL-orange">
                 <img alt="MySQL" src="https://img.shields.io/badge/MySQL-blue">
