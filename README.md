@@ -27,7 +27,7 @@ I a dedicated full-stack developer with one year of professional experience. My 
 
 
 
-🖥 <p style="font-weight: bold;">My Tech Stack:</p>
+🖥 My Tech Stack:
 
  <table style={
        border-collapse: collapse;
