@@ -21,12 +21,13 @@ I a dedicated full-stack developer with one year of professional experience. My 
 
 📫 How to reach me: 
 <br>
+<br>
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:votre.adresse.email@example.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sara-sekkoute-2b41b1230/)
 
 
 
 
-🖥 My Tech Stack:
+🖥 <p style="font-weight: bold;">My Tech Stack:</p>
 
  <table style={
        border-collapse: collapse;
@@ -85,6 +86,7 @@ I a dedicated full-stack developer with one year of professional experience. My 
     </table>
 
 
-
-Most used language
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laxmena&layout=compact)
+##<p style="font-weight: bold;">Most used language </p>
+<br>
+<br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laxmena&layout=compact)](url)](url)
