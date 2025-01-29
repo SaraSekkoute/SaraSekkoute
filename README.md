@@ -2,22 +2,19 @@
 <head>
 
 </head>
+
 <body>
-<h2 style={
-   font-family: cursive;color:black}>👋 Hello, I'm Sara</h2>
+     <h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=Hi+There!+👋;+I'm+SEKKOUTE+Sara!;" />
+</h1>
 
-I a dedicated full-stack developer with one year of professional experience. My passion for technology drives me to create efficient, user-friendly software solutions. I'm skilled in Java/J2EE, Laravel, jQuery, MySQL, JavaScript, and HTML/CSS/Bootstrap. I thrive on solving complex problems and am committed to delivering innovative solutions.
-
-
-
+I'm a dedicated full-stack developer with almost two years of experience in building efficient, scalable, and user-friendly software solutions. My expertise lies in Java/Spring Boot and Angular, and I have also worked with Laravel, .NET, and Python. Passionate about problem-solving and clean code, I continuously explore new technologies to enhance my skills. Feel free to connect with me—I’m always open to discussing tech, projects, and new opportunities
 
 
 
-🔭 I’m currently working on: Developing a web application for school management.
 
-🌱 I’m currently learning: Django to enhance my development skills.
 
-💬 Ask me about: Anything related to software development, tech trends, or coding best practices.
+🌱 I'm currently learning anything related to cloud computing, big data, tech trends in coding, and coding best practices
 
 📫 How to reach me: 
 <br>
