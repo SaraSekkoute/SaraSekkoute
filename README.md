@@ -28,60 +28,8 @@ I a dedicated full-stack developer with one year of professional experience. My 
 
 
 🖥 My Tech Stack:
-
- <table style={
-       border-collapse: collapse;
-        width: 100%;
-        border: 1px solid #ccc;
- }>
-        <tr>
-               <th style={        border: 1px solid #ccc;
-        padding: 8px;
-        text-align: left; background-color: #f2f2f2;
-        font-family: cursive;}>Programming Languages</th>
-            <th style={        border: 1px solid #ccc;
-        padding: 8px;
-        text-align: left; background-color: #f2f2f2;
-        font-family: cursive;}>Web Development</th>
-            <th style={        border: 1px solid #ccc;
-        padding: 8px;
-        text-align: left; background-color: #f2f2f2;
-        font-family: cursive;}>Database</th>
-        </tr>
-        <tr>
-            <td style={        border: 1px solid #ccc;
-        padding: 8px;
-        text-align: left;}>
-                <img alt="C#" src="https://img.shields.io/badge/C%23-purple">
-                <img alt="Python" src="https://img.shields.io/badge/Python-green">
-                <img alt="PHP" src="https://img.shields.io/badge/PHP-blue">
-                <img alt="Java" src="https://img.shields.io/badge/Java-red">
-                <img alt="JEE" src="https://img.shields.io/badge/JEE-orange">
-            </td>
-               <td style={        border: 1px solid #ccc;
-        padding: 8px;
-        text-align: left;}>
-                <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-yellow">
-                <img alt="HTML" src="https://img.shields.io/badge/HTML-orange">
-                <img alt="CSS" src="https://img.shields.io/badge/CSS-teal">
-                <img alt="AJAX" src="https://img.shields.io/badge/AJAX-lightblue">
-                <img alt="jQuery" src="https://img.shields.io/badge/jQuery-blue">
-                <img alt="XML" src="https://img.shields.io/badge/XML-purple">
-                <img alt="JSON" src="https://img.shields.io/badge/JSON-green">
-                <img alt="ASP.NET" src="https://img.shields.io/badge/ASP.NET-royalblue">
-                <img alt="ADO.NET" src="https://img.shields.io/badge/ADO.NET-deepskyblue">
-                <img alt="Laravel" src="https://img.shields.io/badge/Laravel-red">
-                <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-purple">
-                <img alt="React" src="https://img.shields.io/badge/React-skyblue">
-            </td>
-   <td style={        border: 1px solid #ccc;
-        padding: 8px;
-        text-align: left;}>
-                <img alt="SQL Server" src="https://img.shields.io/badge/SQL%20Server-yellow">
-                <img alt="Transact-SQL" src="https://img.shields.io/badge/Transact-SQL-orange">
-                <img alt="MySQL" src="https://img.shields.io/badge/MySQL-blue">
-                <img alt="SQLite" src="https://img.shields.io/badge/SQLite-green">
-            </td>
-        </tr>
-    </table>
-
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=tailwind,js,astro,react,nodejs,py,postgres,docker,figma" alt="Tech Stack"/>
+  </a>
+</p>
