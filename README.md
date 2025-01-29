@@ -28,9 +28,11 @@ I a dedicated full-stack developer with one year of professional experience. My 
 
 
 🖥 My Tech Stack:
+
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=sql,java,spring,angular,react,python,docker,git,mysql,.Net" alt="Tech Stack"/>
+    <img src="https://skillicons.dev/icons?i=java,spring,angular,react,cs,python,docker,git,mysql,sqlserver" alt="Tech Stack"/>
   </a>
 </p>
+
 
